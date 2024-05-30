@@ -1,0 +1,9 @@
+from .Image import * # noqa
+from .Speed import * # noqa
+from pkg_resources import get_distribution, DistributionNotFound # noqa
+
+try:
+    __version__ = get_distribution(__name__).version
+except DistributionNotFound:
+    # package is not installed
+    pass
