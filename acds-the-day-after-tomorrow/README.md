@@ -17,7 +17,7 @@ Team Nicholas has been working on the design and implementation of a solution a
 ### Github repo folder structure
 This repo, "acds-the-day-after-tomorrow-nicholas", contains the folders:
 - "ACDS"
-    - "Image" - contains Task 1 workbooks§
+    - "Image" - contains Task 1 workbooks
     - "Speed" - contains Task 2 workbooks
 - "Data"
     - "Training data" - contains initial training data from 30 storms.
