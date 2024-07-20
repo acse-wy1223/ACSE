@@ -1,0 +1,5 @@
+<map id="Filter2D" name="Filter2D">
+<area shape="rect" id="Node000001" title="An abstract base class for 2D image filters. Class derived from Filter." alt="" coords="27,79,94,105"/>
+<area shape="rect" id="Node000002" href="$class_filter.html" title=" " alt="" coords="5,5,116,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,46,63,79,58,79,58,46"/>
+</map>

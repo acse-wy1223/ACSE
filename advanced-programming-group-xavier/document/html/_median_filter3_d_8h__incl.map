@@ -1,0 +1,25 @@
+<map id="include/MedianFilter3D.h" name="include/MedianFilter3D.h">
+<area shape="rect" id="Node000001" title="Defines the MedianFilter3D class for applying a median filter to volumetric data." alt="" coords="92,5,258,31"/>
+<area shape="rect" id="Node000002" href="$_filter3_d_8h.html" title="The Filter3D class is an abstract base class for 3D volume filters." alt="" coords="136,79,214,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,31,178,63,172,63,172,31"/>
+<area shape="rect" id="Node000003" href="$_filter_8h.html" title="The Filter class is an abstract base class for image/volume filters." alt="" coords="100,153,160,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="170,106,148,141,143,138,165,103"/>
+<area shape="rect" id="Node000004" href="$_volume_8h.html" title="Declaration of the Volume class for managing 3D volume data." alt="" coords="184,153,260,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="185,103,208,138,203,141,181,106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="39,300,111,326"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="184,179,78,207,13,228,8,243,14,259,27,275,44,289,40,293,23,278,9,262,3,243,9,224,76,202,183,174"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="23,226,76,252"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="194,181,92,223,90,218,192,176"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="165,300,222,326"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="261,165,335,169,415,182,448,193,471,208,477,217,479,229,476,241,468,254,452,266,429,277,368,294,299,305,238,311,238,306,298,299,367,288,427,272,449,262,464,250,471,239,474,228,472,219,467,212,446,198,414,187,335,174,260,170"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="193,226,250,252"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="224,179,224,211,219,211,219,179"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="274,226,356,252"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="239,177,289,215,286,219,236,181"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="379,226,454,252"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="256,176,370,218,368,223,254,181"/>
+<area shape="rect" id="Node000011" href="$_image_8h.html" title="The Image class is used for loading, manipulating, and saving images." alt="" coords="101,226,169,252"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="209,181,163,218,160,214,205,177"/>
+<area shape="poly" id="edge11_Node000011_Node000005" title=" " alt="" coords="127,254,97,290,93,286,123,251"/>
+<area shape="poly" id="edge12_Node000011_Node000007" title=" " alt="" coords="147,251,176,286,172,290,143,254"/>
+</map>

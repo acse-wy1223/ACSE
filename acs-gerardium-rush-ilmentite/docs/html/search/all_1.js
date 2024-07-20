@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['calculate_5fconstants_0',['Calculate_constants',['../struct_calculate__constants.html',1,'']]],
+  ['calculate_5fflow_5frate_1',['calculate_flow_rate',['../_c_simulator_8cpp.html#aa644d771acc5616849f18f64aff25130',1,'calculate_flow_rate(const Calculate_constants &amp;constants, Recovery &amp;recovery, double init_Fg, double init_Fw):&#160;CSimulator.cpp'],['../_c_simulator_8h.html#aa644d771acc5616849f18f64aff25130',1,'calculate_flow_rate(const Calculate_constants &amp;constants, Recovery &amp;recovery, double init_Fg, double init_Fw):&#160;CSimulator.cpp']]],
+  ['calculate_5frecovery_2',['calculate_recovery',['../_c_simulator_8cpp.html#a1f70b712c3b279b5865ebea65210dea2',1,'calculate_recovery(const Calculate_constants &amp;constants, double tau):&#160;CSimulator.cpp'],['../_c_simulator_8h.html#a1f70b712c3b279b5865ebea65210dea2',1,'calculate_recovery(const Calculate_constants &amp;constants, double tau):&#160;CSimulator.cpp']]],
+  ['calculate_5fresidence_5ftime_3',['calculate_residence_time',['../_c_simulator_8cpp.html#a00973bd22cd0e50fa13a937e5e108f53',1,'calculate_residence_time(const Calculate_constants &amp;constants, double Fg, double Fw):&#160;CSimulator.cpp'],['../_c_simulator_8h.html#a00973bd22cd0e50fa13a937e5e108f53',1,'calculate_residence_time(const Calculate_constants &amp;constants, double Fg, double Fw):&#160;CSimulator.cpp']]],
+  ['ccircuit_2ecpp_4',['CCircuit.cpp',['../_c_circuit_8cpp.html',1,'']]],
+  ['ccircuit_2eh_5',['CCircuit.h',['../_c_circuit_8h.html',1,'']]],
+  ['check_5ffeed_5fvalue_6',['check_feed_value',['../struct_circuit.html#a8a259b804c8119916d18641957a93a76',1,'Circuit']]],
+  ['check_5fvalidity_7',['Check_Validity',['../struct_circuit.html#a73978d9403f7cb730046d624dcb2bb6f',1,'Circuit::Check_Validity()'],['../_c_circuit_8cpp.html#ac39433efe4b9aa8c9d9e68d0071e5b37',1,'Check_Validity(int vector_size, int *circuit_vector):&#160;CCircuit.cpp'],['../_c_circuit_8h.html#ac39433efe4b9aa8c9d9e68d0071e5b37',1,'Check_Validity(int vector_size, int *circuit_vector):&#160;CCircuit.cpp']]],
+  ['check_5fvalues_8',['check_values',['../struct_circuit.html#aad162d417f191965ce0e77c43385415b',1,'Circuit']]],
+  ['circuit_9',['Circuit',['../struct_circuit.html',1,'Circuit'],['../struct_circuit.html#ae9d62661b452c4d4ef5d6e75f0278cbf',1,'Circuit::Circuit()']]],
+  ['circuit_5fparameters_10',['Circuit_Parameters',['../struct_circuit___parameters.html',1,'']]],
+  ['conc_5fnum_11',['conc_num',['../class_c_unit.html#acdc8636ac295d38228496f681b1b87ce',1,'CUnit']]],
+  ['conc_5foutlet_5freached_12',['conc_outlet_reached',['../_c_circuit_8cpp.html#ac9076583f1af150f100614f06570ba38',1,'CCircuit.cpp']]],
+  ['concentrate_5fgerardium_13',['concentrate_gerardium',['../struct_recovery.html#a986685b44781d95f631bcf268181bfaa',1,'Recovery']]],
+  ['concentrate_5ftailing_5fcheck_14',['concentrate_tailing_check',['../struct_circuit.html#acd4e36f91fbd20fc3cbb4def9735482a',1,'Circuit']]],
+  ['concentrate_5fwaste_15',['concentrate_waste',['../struct_recovery.html#a282afedac216c8e6343df52fb90c8253',1,'Recovery']]],
+  ['crossover_16',['crossover',['../_genetic___algorithm_8cpp.html#a4125585452606efa184c02dea645fdd0',1,'crossover(std::vector&lt; int &gt; &amp;parent1, std::vector&lt; int &gt; &amp;parent2, double crossover_rate, int max_value):&#160;Genetic_Algorithm.cpp'],['../_genetic___algorithm_8h.html#a4125585452606efa184c02dea645fdd0',1,'crossover(std::vector&lt; int &gt; &amp;parent1, std::vector&lt; int &gt; &amp;parent2, double crossover_rate, int max_value):&#160;Genetic_Algorithm.cpp']]],
+  ['crossover_5frate_17',['crossover_rate',['../struct_algorithm___parameters.html#a3e4381654050a95c58ff09a1b8f47cf3',1,'Algorithm_Parameters']]],
+  ['csimulator_2ecpp_18',['CSimulator.cpp',['../_c_simulator_8cpp.html',1,'']]],
+  ['csimulator_2eh_19',['CSimulator.h',['../_c_simulator_8h.html',1,'']]],
+  ['cunit_20',['CUnit',['../class_c_unit.html',1,'CUnit'],['../class_c_unit.html#af94af33f7e89ad04a27e77479f78eb4a',1,'CUnit::CUnit()']]],
+  ['cunit_2eh_21',['CUnit.h',['../_c_unit_8h.html',1,'']]]
+];

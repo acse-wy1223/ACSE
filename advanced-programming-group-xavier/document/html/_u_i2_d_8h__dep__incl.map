@@ -1,0 +1,5 @@
+<map id="include/UI2D.h" name="include/UI2D.h">
+<area shape="rect" id="Node000001" title="Provides the UI2D class for interacting with users." alt="" coords="5,5,114,31"/>
+<area shape="rect" id="Node000002" href="$_u_i_8h.html" title="Declaration of the UI class that handles the main user interface for the application." alt="" coords="14,79,105,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,46,62,79,57,79,57,46"/>
+</map>

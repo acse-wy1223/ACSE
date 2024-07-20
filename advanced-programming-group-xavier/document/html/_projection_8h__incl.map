@@ -1,0 +1,21 @@
+<map id="include/Projection.h" name="include/Projection.h">
+<area shape="rect" id="Node000001" title="Declaration of the Projection class for computing and applying projection techniques to 3D volume dat..." alt="" coords="154,5,289,31"/>
+<area shape="rect" id="Node000002" href="$_volume_8h.html" title="Declaration of the Volume class for managing 3D volume data." alt="" coords="184,79,260,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,31,224,63,219,63,219,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="39,226,111,252"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="184,101,85,121,40,136,24,145,13,154,8,169,14,185,27,201,44,215,40,219,23,205,9,188,3,170,9,151,21,141,38,131,83,116,182,96"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="23,153,76,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="194,108,92,150,90,145,192,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="165,226,222,252"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="261,91,335,95,415,108,448,119,471,134,477,144,479,155,476,167,468,180,452,193,429,204,368,220,299,231,238,237,238,232,298,226,367,215,427,199,449,188,464,177,471,165,474,155,472,146,467,138,446,124,414,113,335,101,260,96"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="193,153,250,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="224,105,224,137,219,137,219,105"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="274,153,356,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="239,103,289,141,286,145,236,107"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="379,153,454,178"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="256,103,370,144,368,149,254,108"/>
+<area shape="rect" id="Node000009" href="$_image_8h.html" title="The Image class is used for loading, manipulating, and saving images." alt="" coords="101,153,169,178"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="209,107,163,145,160,141,205,103"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="127,180,97,216,93,213,123,177"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="147,177,176,213,172,216,143,180"/>
+</map>

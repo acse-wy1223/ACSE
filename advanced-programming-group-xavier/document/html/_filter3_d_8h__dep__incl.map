@@ -1,0 +1,12 @@
+<map id="include/Filter3D.h" name="include/Filter3D.h">
+<area shape="rect" id="Node000001" title="The Filter3D class is an abstract base class for 3D volume filters." alt="" coords="130,5,254,31"/>
+<area shape="rect" id="Node000002" href="$_gaussian_filter3_d_8h.html" title="Defines the GaussianFilter3D class for applying a 3D Gaussian filter on volumetric data." alt="" coords="5,79,184,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,43,112,81,109,76,162,38"/>
+<area shape="rect" id="Node000005" href="$_median_filter3_d_8h.html" title="Defines the MedianFilter3D class for applying a median filter to volumetric data." alt="" coords="208,79,373,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="222,38,276,76,272,81,219,43"/>
+<area shape="rect" id="Node000003" href="$_u_i3_d_8h.html" title="Defines the UI3D class for the 3D user interface of the application." alt="" coords="138,153,246,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,112,177,150,174,154,122,116"/>
+<area shape="rect" id="Node000004" href="$_u_i_8h.html" title="Declaration of the UI class that handles the main user interface for the application." alt="" coords="146,226,238,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,194,195,226,189,226,189,194"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="263,116,210,154,207,150,260,112"/>
+</map>

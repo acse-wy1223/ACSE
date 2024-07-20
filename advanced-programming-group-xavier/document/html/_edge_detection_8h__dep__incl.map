@@ -1,0 +1,7 @@
+<map id="include/EdgeDetection.h" name="include/EdgeDetection.h">
+<area shape="rect" id="Node000001" title="Provides the EdgeDetection class for applying edge detection algorithms on images." alt="" coords="5,5,169,31"/>
+<area shape="rect" id="Node000002" href="$_u_i2_d_8h.html" title="Provides the UI2D class for interacting with users." alt="" coords="33,79,141,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,46,90,79,84,79,84,46"/>
+<area shape="rect" id="Node000003" href="$_u_i_8h.html" title="Declaration of the UI class that handles the main user interface for the application." alt="" coords="41,153,133,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,120,90,152,84,152,84,120"/>
+</map>

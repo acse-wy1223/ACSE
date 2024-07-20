@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_filter.html" title=" " alt="" coords="5,31,124,56"/>
+<area shape="rect" id="Node000001" href="$class_filter3_d.html" title="An abstract base class for 3D volume filters. Class derived from Filter." alt="" coords="172,31,239,56"/>
+<area shape="poly" id="edge9_Node000000_Node000001" title=" " alt="" coords="139,41,171,41,171,46,139,46"/>
+<area shape="rect" id="Node000002" href="$class_gaussian_filter3_d.html" title="Implements a 3D Gaussian filter on volumetric data." alt="" coords="287,5,409,31"/>
+<area shape="poly" id="edge10_Node000001_Node000002" title=" " alt="" coords="254,32,286,26,287,32,255,37"/>
+<area shape="rect" id="Node000003" href="$class_median_filter3_d.html" title="Implements median filtering for volumetric data." alt="" coords="294,55,403,80"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="255,49,294,56,293,61,254,54"/>
+</map>

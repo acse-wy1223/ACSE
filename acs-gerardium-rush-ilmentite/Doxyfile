@@ -1,0 +1,62 @@
+# ===============================
+
+# Creators:     Ding Lihao
+#               Ioannidis Chris
+#               Krymski Antony
+#               Petala Naya
+#               Shen Chenlin
+#               Wang Ruochen
+#               Wang Yue
+#               Yu Wenbo
+
+# ================================
+
+# Project settings
+PROJECT_NAME           = "Gerardium Rush - Ilmenite"
+PROJECT_BRIEF          = "ACS - Gerardium Rush - Ilmenite - Summer 2024"
+PROJECT_NUMBER         = "1.0"
+OUTPUT_DIRECTORY       = docs
+
+# Documentation options
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+GENERATE_LATEX         = NO
+GENERATE_MAN           = NO
+GENERATE_RTF           = NO
+GENERATE_XML           = NO
+GENERATE_DOCSET        = NO
+GENERATE_AUTOGEN_DEF   = NO
+
+# Directory settings
+INPUT                  = ./src ./include
+RECURSIVE              = YES
+EXCLUDE_PATTERNS       = */.git/* */build/* */docs/* */tests/*
+
+# Source browsing options
+SOURCE_BROWSER         = YES
+INLINE_SOURCES         = YES
+STRIP_CODE_COMMENTS    = NO
+
+# Code documentation options
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_PACKAGE        = YES
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_CLASSES  = YES
+EXTRACT_LOCAL_METHODS  = YES
+EXTRACT_ANON_NSPACES   = YES
+
+# Diagrams
+HAVE_DOT               = YES
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+GRAPHICAL_HIERARCHY    = YES
+DIRECTORY_GRAPH        = YES
+
+# Other
+QUIET                  = NO
+WARNINGS               = YES
+WARN_IF_UNDOCUMENTED   = YES
+WARN_IF_DOC_ERROR      = YES
+WARN_NO_PARAMDOC       = YES
+FILE_PATTERNS          = *.cpp *.h *.hpp

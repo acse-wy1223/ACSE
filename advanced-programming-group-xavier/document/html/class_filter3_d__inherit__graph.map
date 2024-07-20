@@ -1,0 +1,9 @@
+<map id="Filter3D" name="Filter3D">
+<area shape="rect" id="Node000001" title="An abstract base class for 3D volume filters. Class derived from Filter." alt="" coords="102,79,170,105"/>
+<area shape="rect" id="Node000003" href="$class_gaussian_filter3_d.html" title="Implements a 3D Gaussian filter on volumetric data." alt="" coords="5,153,128,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,117,80,154,76,150,112,114"/>
+<area shape="rect" id="Node000004" href="$class_median_filter3_d.html" title="Implements median filtering for volumetric data." alt="" coords="152,153,261,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="160,114,196,150,193,154,156,117"/>
+<area shape="rect" id="Node000002" href="$class_filter.html" title=" " alt="" coords="77,5,195,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,46,139,79,133,79,133,46"/>
+</map>

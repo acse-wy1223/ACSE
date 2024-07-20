@@ -1,0 +1,7 @@
+<map id="include/HistogramEqualisation.h" name="include/HistogramEqualisation.h">
+<area shape="rect" id="Node000001" title="Provides the HistogramEqualisation class for histogram equalization on images." alt="" coords="5,5,214,31"/>
+<area shape="rect" id="Node000002" href="$_u_i2_d_8h.html" title="Provides the UI2D class for interacting with users." alt="" coords="55,79,164,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,46,112,79,107,79,107,46"/>
+<area shape="rect" id="Node000003" href="$_u_i_8h.html" title="Declaration of the UI class that handles the main user interface for the application." alt="" coords="64,153,155,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,120,112,152,107,152,107,120"/>
+</map>

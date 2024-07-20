@@ -1,0 +1,7 @@
+<map id="include/MedianFilter3D.h" name="include/MedianFilter3D.h">
+<area shape="rect" id="Node000001" title="Defines the MedianFilter3D class for applying a median filter to volumetric data." alt="" coords="5,5,171,31"/>
+<area shape="rect" id="Node000002" href="$_u_i3_d_8h.html" title="Defines the UI3D class for the 3D user interface of the application." alt="" coords="34,79,142,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,46,91,79,85,79,85,46"/>
+<area shape="rect" id="Node000003" href="$_u_i_8h.html" title="Declaration of the UI class that handles the main user interface for the application." alt="" coords="42,153,134,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,120,91,152,85,152,85,120"/>
+</map>

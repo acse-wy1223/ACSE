@@ -1,0 +1,66 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,484,55,509"/>
+<area shape="rect" id="Node000002" href="$_c_circuit_8cpp.html#ac39433efe4b9aa8c9d9e68d0071e5b37" title="Check the validity of the circuit based on given criteria." alt="" coords="107,333,216,359"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="41,481,137,369,141,372,45,485"/>
+<area shape="rect" id="Node000014" href="$_c_simulator_8cpp.html#a0c0dc657ea14231767678e4cc0b28795" title="Evaluates the performance of a circuit based on a given vector." alt="" coords="103,484,220,509"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="55,494,87,494,87,499,55,499"/>
+<area shape="rect" id="Node000020" href="$_genetic___algorithm_8cpp.html#a895cf604ef41266f6ae7a39a45528789" title="Optimizes a vector using the genetic algorithm." alt="" coords="126,685,197,711"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="42,508,146,671,142,674,38,511"/>
+<area shape="rect" id="Node000003" href="$struct_circuit.html#a73978d9403f7cb730046d624dcb2bb6f" title="Checks the validity of a given circuit vector." alt="" coords="275,280,429,305"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="209,330,288,307,290,312,211,335"/>
+<area shape="rect" id="Node000004" href="$struct_circuit.html#a8a259b804c8119916d18641957a93a76" title="Checks the feed value in the circuit vector." alt="" coords="515,5,649,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="355,278,369,235,394,176,432,112,456,82,483,56,500,44,503,49,486,60,460,85,436,115,399,178,374,237,360,280"/>
+<area shape="rect" id="Node000005" href="$struct_circuit.html#aad162d417f191965ce0e77c43385415b" title="Checks if the values in the circuit vector are valid." alt="" coords="508,70,656,96"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="357,278,373,243,400,197,437,148,483,106,492,100,495,105,486,110,441,151,404,200,378,246,361,280"/>
+<area shape="rect" id="Node000006" href="$struct_circuit.html#acd4e36f91fbd20fc3cbb4def9735482a" title="Checks if the concentrate and tailing outlets are properly defined." alt="" coords="514,120,650,161"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="363,277,412,227,446,197,483,171,499,163,501,168,486,176,449,201,415,230,367,281"/>
+<area shape="rect" id="Node000007" href="$struct_circuit.html#afafc836c163b6521d9f17ce8472ea77d" title="Checks if the end of the vector is reached correctly." alt="" coords="507,185,657,226"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="383,276,483,235,500,229,502,234,485,240,385,281"/>
+<area shape="rect" id="Node000009" href="$struct_circuit.html#a5cfa9f4fe0a0483c3e1facf4f45d70ea" title="Checks if all units are reachable." alt="" coords="512,250,652,276"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="429,280,496,271,497,276,430,285"/>
+<area shape="rect" id="Node000010" href="$struct_circuit.html#a4c6fd3d6b65cb49b769f7b423cc65ea6" title="Checks if the maximum values in the circuit vector are valid." alt="" coords="517,300,647,341"/>
+<area shape="poly" id="edge11_Node000003_Node000010" title=" " alt="" coords="430,299,502,308,501,313,429,304"/>
+<area shape="rect" id="Node000011" href="$struct_circuit.html#aafffdd83d770176aa352fecba22db68a" title="Checks if the same unit has different destinations." alt="" coords="518,365,646,406"/>
+<area shape="poly" id="edge12_Node000003_Node000011" title=" " alt="" coords="382,303,485,350,505,357,503,362,483,355,380,308"/>
+<area shape="rect" id="Node000012" href="$struct_circuit.html#aae3efc55de5b29bfb5f43890abe5c210" title="Checks for self&#45;recycling units." alt="" coords="513,431,651,471"/>
+<area shape="poly" id="edge13_Node000003_Node000012" title=" " alt="" coords="369,304,486,416,501,423,498,428,483,420,365,307"/>
+<area shape="rect" id="Node000013" href="$struct_circuit.html#a8067cddd04659f64c739f73763336fa7" title="Checks if the tail percentage to the concentrate outlet is within limits." alt="" coords="484,496,680,537"/>
+<area shape="poly" id="edge14_Node000003_Node000013" title=" " alt="" coords="373,304,405,333,439,371,454,402,460,430,467,455,486,481,491,485,488,489,482,485,462,458,454,431,449,404,434,374,402,336,369,308"/>
+<area shape="rect" id="Node000008" href="$struct_circuit.html#a77e630f3c6c0fd42f3945c16b6542cd0" title="Marks units for reachability check." alt="" coords="748,222,879,248"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="657,212,732,222,731,227,657,218"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="775,223,767,214,772,204,788,198,813,196,842,198,856,205,854,210,840,203,813,201,789,203,776,208,773,213,779,220"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="652,252,732,242,733,247,653,257"/>
+<area shape="rect" id="Node000015" href="$_c_simulator_8cpp.html#aa644d771acc5616849f18f64aff25130" title="Calculates the flow rates of materials in a unit." alt="" coords="286,385,419,411"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="176,481,216,450,267,419,280,414,282,419,269,424,219,455,180,485"/>
+<area shape="rect" id="Node000016" href="$_c_simulator_8cpp.html#a1f70b712c3b279b5865ebea65210dea2" title="Calculates the recovery of materials in a unit." alt="" coords="287,434,417,460"/>
+<area shape="poly" id="edge17_Node000014_Node000016" title=" " alt="" coords="213,480,284,462,285,467,215,485"/>
+<area shape="rect" id="Node000017" href="$_c_simulator_8cpp.html#a00973bd22cd0e50fa13a937e5e108f53" title="Calculates the residence time of materials in a unit." alt="" coords="268,484,436,509"/>
+<area shape="poly" id="edge18_Node000014_Node000017" title=" " alt="" coords="221,494,252,494,252,499,221,499"/>
+<area shape="rect" id="Node000018" href="$_c_simulator_8cpp.html#a089b8339cf02dc2feda84db3b6e0e4a5" title="Calculates the performance of a circuit." alt="" coords="293,533,411,559"/>
+<area shape="poly" id="edge19_Node000014_Node000018" title=" " alt="" coords="215,507,285,526,284,531,213,512"/>
+<area shape="rect" id="Node000019" href="$_c_simulator_8cpp.html#af350857d8cbea4ca616f3cb7d26a1635" title="Converts a vector to a vector of units." alt="" coords="297,582,407,608"/>
+<area shape="poly" id="edge20_Node000014_Node000019" title=" " alt="" coords="180,508,219,538,269,569,283,575,281,579,267,573,216,543,176,512"/>
+<area shape="rect" id="Node000021" href="$_genetic___algorithm_8cpp.html#a8b69da7dae77db6026dd42470b84970b" title="Performs a genetic algorithm optimization." alt="" coords="291,685,414,711"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="197,695,275,695,275,700,197,700"/>
+<area shape="rect" id="Node000030" href="$_genetic___algorithm_8cpp.html#a948c841cd4416029b214d5392e29f40f" title=" " alt="" coords="285,734,419,760"/>
+<area shape="poly" id="edge34_Node000020_Node000030" title=" " alt="" coords="197,704,286,727,284,732,196,709"/>
+<area shape="rect" id="Node000022" href="$_genetic___algorithm_8cpp.html#a4125585452606efa184c02dea645fdd0" title=" " alt="" coords="543,561,621,587"/>
+<area shape="poly" id="edge23_Node000021_Node000022" title=" " alt="" coords="365,682,414,640,447,616,483,595,527,580,529,585,485,600,450,620,418,644,368,687"/>
+<area shape="rect" id="Node000024" href="$_genetic___algorithm_8cpp.html#a50052df552b178451a3451065a792a15" title=" " alt="" coords="522,610,642,636"/>
+<area shape="poly" id="edge25_Node000021_Node000024" title=" " alt="" coords="384,682,483,644,506,638,508,643,485,650,386,687"/>
+<area shape="rect" id="Node000025" href="$_genetic___algorithm_8cpp.html#ab6dfe6a7d9847765530c234e3bbb638c" title=" " alt="" coords="530,660,634,685"/>
+<area shape="poly" id="edge26_Node000021_Node000025" title=" " alt="" coords="414,688,514,677,515,682,415,694"/>
+<area shape="rect" id="Node000026" href="$_genetic___algorithm_8cpp.html#a8d63660932403b304335c0ee88539253" title=" " alt="" coords="508,709,656,735"/>
+<area shape="poly" id="edge28_Node000021_Node000026" title=" " alt="" coords="415,701,493,710,492,715,414,707"/>
+<area shape="rect" id="Node000027" href="$_genetic___algorithm_8cpp.html#ae9cdc2887a46135d603f6b9e1d158ec9" title=" " alt="" coords="533,758,631,784"/>
+<area shape="poly" id="edge30_Node000021_Node000027" title=" " alt="" coords="407,709,437,719,462,732,485,745,519,755,517,760,483,749,459,737,435,724,405,714"/>
+<area shape="rect" id="Node000028" href="$_genetic___algorithm_8cpp.html#aa56adc5182fe8ebbb3c22446e39376c7" title=" " alt="" coords="508,808,656,833"/>
+<area shape="poly" id="edge31_Node000021_Node000028" title=" " alt="" coords="416,707,438,720,455,739,463,758,470,777,486,794,495,800,492,804,483,798,465,780,458,760,450,741,435,724,413,712"/>
+<area shape="rect" id="Node000029" href="$_genetic___algorithm_8cpp.html#a1f19d8c12534e0ebf4f57d03708a9707" title=" " alt="" coords="535,857,629,883"/>
+<area shape="poly" id="edge32_Node000021_Node000029" title=" " alt="" coords="416,706,438,720,451,735,459,752,463,784,467,815,474,829,486,844,502,854,520,861,518,866,500,859,483,848,469,832,462,816,457,784,453,753,447,738,435,724,413,710"/>
+<area shape="rect" id="Node000023" href="$_genetic___algorithm_8cpp.html#aa18eacb20ee309e29e7a023334143001" title=" " alt="" coords="728,684,899,709"/>
+<area shape="poly" id="edge24_Node000022_Node000023" title=" " alt="" coords="622,577,651,584,681,595,741,632,789,671,785,675,738,636,678,600,650,589,621,582"/>
+<area shape="poly" id="edge27_Node000025_Node000023" title=" " alt="" coords="635,675,712,683,712,688,634,680"/>
+<area shape="poly" id="edge29_Node000026_Node000023" title=" " alt="" coords="656,711,712,705,713,710,657,716"/>
+<area shape="poly" id="edge33_Node000029_Node000023" title=" " alt="" coords="629,861,654,854,678,843,715,816,747,783,794,721,798,724,751,787,718,820,681,848,656,859,630,867"/>
+</map>

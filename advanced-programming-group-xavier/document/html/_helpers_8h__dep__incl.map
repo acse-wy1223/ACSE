@@ -1,0 +1,8 @@
+<map id="include/Helpers.h" name="include/Helpers.h">
+<area shape="rect" id="Node000001" title="Declaration of utility functions for various simple operations." alt="" coords="5,5,128,31"/>
+<area shape="rect" id="Node000002" href="$_u_i_8h.html" title="Declaration of the UI class that handles the main user interface for the application." alt="" coords="21,153,112,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,46,49,79,49,99,52,119,63,151,58,153,47,120,43,99,44,79,53,45"/>
+<area shape="rect" id="Node000003" href="$_u_i3_d_8h.html" title="Defines the UI3D class for the 3D user interface of the application." alt="" coords="59,79,167,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="85,42,108,77,103,80,80,45"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="99,119,77,154,72,151,95,116"/>
+</map>

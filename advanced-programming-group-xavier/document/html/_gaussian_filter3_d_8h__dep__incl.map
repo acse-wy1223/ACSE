@@ -1,0 +1,7 @@
+<map id="include/GaussianFilter3D.h" name="include/GaussianFilter3D.h">
+<area shape="rect" id="Node000001" title="Defines the GaussianFilter3D class for applying a 3D Gaussian filter on volumetric data." alt="" coords="5,5,184,31"/>
+<area shape="rect" id="Node000002" href="$_u_i3_d_8h.html" title="Defines the UI3D class for the 3D user interface of the application." alt="" coords="40,79,149,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,46,97,79,92,79,92,46"/>
+<area shape="rect" id="Node000003" href="$_u_i_8h.html" title="Declaration of the UI class that handles the main user interface for the application." alt="" coords="49,153,140,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,120,97,152,92,152,92,120"/>
+</map>

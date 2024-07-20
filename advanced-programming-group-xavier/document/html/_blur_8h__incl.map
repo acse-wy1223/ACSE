@@ -1,0 +1,20 @@
+<map id="include/Blur.h" name="include/Blur.h">
+<area shape="rect" id="Node000001" title="The Blur class is used for applying a 2D blur filter to images using various kernels." alt="" coords="74,5,173,31"/>
+<area shape="rect" id="Node000002" href="$_filter2_d_8h.html" title="The Filter2D class is an abstract base class for 2D image filters." alt="" coords="8,79,87,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,33,73,70,69,66,109,30"/>
+<area shape="rect" id="Node000004" href="$_image_8h.html" title="The Image class is used for loading, manipulating, and saving images." alt="" coords="89,153,158,178"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="126,31,126,137,121,137,121,31"/>
+<area shape="rect" id="Node000007" href="$_kernel_8h.html" title="The Kernel class is used for instantiating 2D kernels and applying them on images." alt="" coords="161,79,230,105"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="137,29,174,66,171,70,134,33"/>
+<area shape="rect" id="Node000003" href="$_filter_8h.html" title="The Filter class is an abstract base class for image/volume filters." alt="" coords="5,153,66,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="48,105,43,138,37,137,43,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="62,103,102,140,98,144,59,107"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="72,226,143,252"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="123,179,116,211,111,210,118,178"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="167,226,224,252"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="137,177,174,213,171,217,134,180"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="185,107,148,143,145,140,182,103"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="198,105,198,211,193,211,193,105"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="233,153,286,178"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="208,103,241,139,237,143,204,107"/>
+</map>

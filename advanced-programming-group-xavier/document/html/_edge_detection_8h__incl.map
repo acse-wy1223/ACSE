@@ -1,0 +1,20 @@
+<map id="include/EdgeDetection.h" name="include/EdgeDetection.h">
+<area shape="rect" id="Node000001" title="Provides the EdgeDetection class for applying edge detection algorithms on images." alt="" coords="114,5,278,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,59,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,34,74,75,72,70,167,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="110,226,167,252"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,34,145,53,124,80,115,114,115,149,121,183,130,211,125,213,116,184,110,150,109,113,119,78,142,49,170,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="134,79,191,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,32,177,66,172,64,188,30"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="234,226,305,252"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="279,28,323,46,342,60,358,77,372,103,376,128,371,152,358,180,339,203,315,221,312,216,336,199,354,177,366,151,370,128,367,105,354,81,339,64,320,50,277,33"/>
+<area shape="rect" id="Node000006" href="$_image_8h.html" title="The Image class is used for loading, manipulating, and saving images." alt="" coords="191,153,260,178"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="201,31,222,137,217,138,196,32"/>
+<area shape="rect" id="Node000007" href="$_filter2_d_8h.html" title="The Filter2D class is an abstract base class for 2D image filters." alt="" coords="266,79,345,105"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="216,29,276,68,273,73,213,34"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="212,181,166,218,163,214,209,177"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="235,177,256,211,252,214,230,180"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="294,107,252,144,248,140,290,103"/>
+<area shape="rect" id="Node000008" href="$_filter_8h.html" title="The Filter class is an abstract base class for image/volume filters." alt="" coords="283,153,344,178"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="309,105,313,137,308,138,304,105"/>
+</map>

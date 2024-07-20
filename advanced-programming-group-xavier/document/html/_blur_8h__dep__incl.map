@@ -1,0 +1,9 @@
+<map id="include/Blur.h" name="include/Blur.h">
+<area shape="rect" id="Node000001" title="The Blur class is used for applying a 2D blur filter to images using various kernels." alt="" coords="131,5,230,31"/>
+<area shape="rect" id="Node000002" href="$_experiment2_d_blur_8h.html" title="The Experiment2DBlur class is designed to run a series of experiments applying a 2D blur effect to an..." alt="" coords="5,79,188,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,43,112,81,109,77,153,39"/>
+<area shape="rect" id="Node000003" href="$_u_i2_d_8h.html" title="Provides the UI2D class for interacting with users." alt="" coords="212,79,320,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,39,253,77,250,81,205,43"/>
+<area shape="rect" id="Node000004" href="$_u_i_8h.html" title="Declaration of the UI class that handles the main user interface for the application." alt="" coords="220,153,312,178"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="269,120,269,152,263,152,263,120"/>
+</map>

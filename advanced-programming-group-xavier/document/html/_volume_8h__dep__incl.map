@@ -1,0 +1,21 @@
+<map id="include/Volume.h" name="include/Volume.h">
+<area shape="rect" id="Node000001" title="Declaration of the Volume class for managing 3D volume data." alt="" coords="402,5,523,31"/>
+<area shape="rect" id="Node000002" href="$_filter3_d_8h.html" title="The Filter3D class is an abstract base class for 3D volume filters." alt="" coords="229,79,352,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="420,40,321,81,319,76,418,35"/>
+<area shape="rect" id="Node000004" href="$_u_i3_d_8h.html" title="Defines the UI3D class for the 3D user interface of the application." alt="" coords="356,226,465,252"/>
+<area shape="poly" id="edge11_Node000001_Node000004" title=" " alt="" coords="452,46,438,80,421,163,414,226,409,226,416,162,433,78,447,44"/>
+<area shape="rect" id="Node000007" href="$_projection_8h.html" title="Declaration of the Projection class for computing and applying projection techniques to 3D volume dat..." alt="" coords="448,79,584,105"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="483,42,509,77,505,80,478,45"/>
+<area shape="rect" id="Node000008" href="$_slice_8h.html" title="Declaration of the Slice class for extracting and saving 2D slices from 3D volume data." alt="" coords="561,153,668,178"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="533,34,568,52,598,77,609,96,615,116,618,152,612,153,609,117,604,98,594,81,565,56,531,39"/>
+<area shape="rect" id="Node000003" href="$_gaussian_filter3_d_8h.html" title="Defines the GaussianFilter3D class for applying a 3D Gaussian filter on volumetric data." alt="" coords="5,153,184,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,113,129,155,127,150,242,108"/>
+<area shape="rect" id="Node000006" href="$_median_filter3_d_8h.html" title="Defines the MedianFilter3D class for applying a median filter to volumetric data." alt="" coords="208,153,373,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="293,120,293,152,288,152,288,120"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="164,180,357,223,356,228,163,185"/>
+<area shape="rect" id="Node000005" href="$_u_i_8h.html" title="Declaration of the UI class that handles the main user interface for the application." alt="" coords="365,300,456,326"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="413,267,413,300,408,300,408,267"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="325,184,391,223,389,228,322,189"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="500,119,421,227,417,224,496,116"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="567,186,446,228,444,223,565,181"/>
+</map>

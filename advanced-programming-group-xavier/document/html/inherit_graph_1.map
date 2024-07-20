@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_filter.html" title=" " alt="" coords="5,153,116,179"/>
+<area shape="rect" id="Node000001" href="$class_filter2_d.html" title="An abstract base class for 2D image filters. Class derived from Filter." alt="" coords="164,153,231,179"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="131,164,163,164,163,169,131,169"/>
+<area shape="rect" id="Node000002" href="$class_blur.html" title="Class derived from Filter2D to apply blur effects on images." alt="" coords="333,5,377,31"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="207,138,234,88,254,62,277,40,305,26,332,18,333,24,306,31,281,44,258,66,239,91,212,140"/>
+<area shape="rect" id="Node000003" href="$class_brightness.html" title="Implements brightness adjustment for images." alt="" coords="314,55,397,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="218,139,245,113,278,89,312,75,314,80,280,94,248,117,222,143"/>
+<area shape="rect" id="Node000004" href="$class_edge_detection.html" title="Implements edge detection algorithms for images." alt="" coords="302,104,409,130"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="245,149,311,128,312,133,247,154"/>
+<area shape="rect" id="Node000005" href="$class_grayscale.html" title="Implements image grayscaling." alt="" coords="315,153,395,179"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="247,164,314,164,314,169,247,169"/>
+<area shape="rect" id="Node000006" href="$class_histogram_equalisation.html" title="Implements histogram equalization for image contrast enhancement." alt="" coords="279,203,431,228"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="247,179,312,200,311,205,245,184"/>
+<area shape="rect" id="Node000007" href="$class_salt_and_pepper_noise.html" title="Implements salt&#45;and&#45;pepper noise addition to images." alt="" coords="284,252,426,278"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="222,189,248,215,280,239,303,249,301,254,278,243,245,219,218,193"/>
+<area shape="rect" id="Node000008" href="$class_thresholding.html" title="Implements thresholding for image processing." alt="" coords="308,301,403,327"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="212,192,239,241,258,267,281,288,308,302,306,307,277,292,254,270,234,244,207,195"/>
+</map>

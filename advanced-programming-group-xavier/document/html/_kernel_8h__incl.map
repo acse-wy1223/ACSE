@@ -1,0 +1,12 @@
+<map id="include/Kernel.h" name="include/Kernel.h">
+<area shape="rect" id="Node000001" title="The Kernel class is used for instantiating 2D kernels and applying them on images." alt="" coords="39,5,153,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,59,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,33,55,69,51,66,83,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="73,153,130,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,31,103,137,98,137,94,31"/>
+<area shape="rect" id="Node000004" href="$_image_8h.html" title="The Image class is used for loading, manipulating, and saving images." alt="" coords="133,79,259,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="115,29,168,67,165,72,111,34"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="182,107,131,145,128,141,178,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="160,153,232,178"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="199,105,199,137,193,137,193,105"/>
+</map>

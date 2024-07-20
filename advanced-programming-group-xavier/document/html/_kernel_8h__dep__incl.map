@@ -1,0 +1,15 @@
+<map id="include/Kernel.h" name="include/Kernel.h">
+<area shape="rect" id="Node000001" title="The Kernel class is used for instantiating 2D kernels and applying them on images." alt="" coords="167,5,282,31"/>
+<area shape="rect" id="Node000002" href="$_blur_8h.html" title="The Blur class is used for applying a 2D blur filter to images using various kernels." alt="" coords="132,79,232,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,46,191,80,187,77,207,43"/>
+<area shape="rect" id="Node000003" href="$_experiment2_d_blur_8h.html" title="The Experiment2DBlur class is designed to run a series of experiments applying a 2D blur effect to an..." alt="" coords="5,153,188,178"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="177,40,148,57,123,81,112,98,105,118,100,153,94,152,100,117,107,96,118,77,144,53,174,36"/>
+<area shape="rect" id="Node000004" href="$_u_i2_d_8h.html" title="Provides the UI2D class for interacting with users." alt="" coords="213,153,321,178"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="235,45,246,78,266,151,261,153,241,80,230,47"/>
+<area shape="rect" id="Node000006" href="$_utils_8h.html" title="This file contains utility functions for various operations." alt="" coords="306,79,410,105"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="262,36,336,76,334,81,259,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,117,112,154,109,150,154,113"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="210,113,255,150,251,154,206,117"/>
+<area shape="rect" id="Node000005" href="$_u_i_8h.html" title="Declaration of the UI class that handles the main user interface for the application." alt="" coords="222,226,313,252"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="270,194,270,226,265,226,265,194"/>
+</map>

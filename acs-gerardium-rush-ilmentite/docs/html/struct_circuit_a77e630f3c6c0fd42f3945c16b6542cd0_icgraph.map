@@ -1,0 +1,15 @@
+<map id="Circuit::mark_units" name="Circuit::mark_units">
+<area shape="rect" id="Node000001" title="Marks units for reachability check." alt="" coords="659,42,790,68"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="756,29,745,23,724,21,705,23,694,28,692,33,697,40,693,43,686,34,690,24,703,18,724,16,747,18,759,25"/>
+<area shape="rect" id="Node000002" href="$struct_circuit.html#afafc836c163b6521d9f17ce8472ea77d" title="Checks if the end of the vector is reached correctly." alt="" coords="461,5,611,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="643,45,610,40,611,35,644,40"/>
+<area shape="rect" id="Node000006" href="$struct_circuit.html#a5cfa9f4fe0a0483c3e1facf4f45d70ea" title="Checks if all units are reachable." alt="" coords="466,70,606,96"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="644,70,607,75,606,70,643,64"/>
+<area shape="rect" id="Node000003" href="$struct_circuit.html#a73978d9403f7cb730046d624dcb2bb6f" title="Checks the validity of a given circuit vector." alt="" coords="259,42,413,68"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,42,414,46,413,41,445,36"/>
+<area shape="rect" id="Node000004" href="$_c_circuit_8cpp.html#ac39433efe4b9aa8c9d9e68d0071e5b37" title="Check the validity of the circuit based on given criteria." alt="" coords="103,42,211,68"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="243,58,211,58,211,52,243,52"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,42,55,68"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,58,55,58,55,52,87,52"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="451,74,413,68,414,63,451,68"/>
+</map>

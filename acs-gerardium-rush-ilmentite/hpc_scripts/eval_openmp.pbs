@@ -1,0 +1,103 @@
+#!/bin/bash
+
+# Job Name
+#PBS -N OpenMpTest
+
+# Resource requirements
+#PBS -l select=1:ncpus=128:mpiprocs=128:ompthreads=1:mem=10000Mb
+
+# Time required in hh:mm:ss
+#PBS -l walltime=0:20:00
+
+# File to contain standard out and error.
+#PBS -j oe
+#PBS -o openmp_test.log
+
+module load intel-compilers/2023.1.0
+module load impi/2021.9.0
+module load CMake
+module load Python/3.11.5-GCCcore-13.2.0
+module load GCCcore/13.2.0
+pip install pandas matplotlib seaborn
+
+current_time=$(date +"%Y%m%d-%H%M%S")
+DIR="bin"
+LOG_DIR="../logs/omp_logs"
+OUTPUT_DIR="./output"
+FILENAME="Circuit_Optimizer"
+CSV_FILE="$LOG_DIR/${current_time}_Circuit_Optimizer.csv"
+num_threads=(1 2 4 6 8 10 12 14 16 18 20)
+
+# cd $PBS_O_WORKDIR
+
+mkdir -p build
+pushd build
+
+cmake .. 2>&1 | tee cmake.log
+make
+
+serial_time=0
+
+mkdir -p $LOG_DIR
+echo "Start openmp testing with threads [${num_threads[@]}] for $FILENAME."
+# Create CSV file and add header
+echo "Threads,Execution Time (ms),Parallel Efficiency,Speedup Rate,Performance,Vector Data" > "$CSV_FILE"
+# Perform the tests
+for num in "${num_threads[@]}"; do
+    start_time=$(date +%s%3N)
+
+    OMP_NUM_THREADS=$num ./$DIR/$FILENAME > "./$LOG_DIR/$current_time-$FILENAME-${num}.log" 2>&1
+    
+    end_time=$(date +%s%3N)
+    elapsed_time=$((end_time - start_time))
+    # Initialize log variables
+    # Initialize log variables
+    performance_data=""
+    recovery_data=""
+    grade_data=""
+    vector_data=""
+
+    # Append contents of performance.dat and vector.dat to the log
+    if [[ -f "$OUTPUT_DIR/performance.dat" ]]; then
+        echo "Contents of performance.dat:" >> "./$LOG_DIR/$current_time-$FILENAME-${num}.log"
+        performance_data=$(sed -n '1p' $OUTPUT_DIR/performance.dat)
+        recovery_data=$(sed -n '2p' $OUTPUT_DIR/performance.dat)
+        grade_data=$(sed -n '3p' $OUTPUT_DIR/performance.dat)
+        echo "$performance_data" >> "./$LOG_DIR/$current_time-$FILENAME-${num}.log"
+        echo "$recovery_data" >> "./$LOG_DIR/$current_time-$FILENAME-${num}.log"
+        echo "$grade_data" >> "./$LOG_DIR/$current_time-$FILENAME-${num}.log"
+    else
+        echo "performance.dat not found" >> "./$LOG_DIR/$current_time-$FILENAME-${num}.log"
+    fi
+
+    if [[ -f "$OUTPUT_DIR/vector.dat" ]]; then
+        echo "Contents of vector.dat:" >> "./$LOG_DIR/$current_time-$FILENAME-${num}.log"
+        vector_data=$(cat $OUTPUT_DIR/vector.dat)
+        echo "$vector_data" >> "./$LOG_DIR/$current_time-$FILENAME-${num}.log"
+    else
+        echo "vector.dat not found" >> "./$LOG_DIR/$current_time-$FILENAME-${num}.log"
+    fi
+    # Add a newline for separation
+    echo "" >> "./$LOG_DIR/$current_time-$FILENAME-${num}.log"
+    echo "Results for $FILENAME with $num threads:" >> "./$LOG_DIR/$current_time-$FILENAME-${num}.log"
+    echo "Execution Time: ${elapsed_time} ms." >> "./$LOG_DIR/$current_time-$FILENAME-${num}.log"
+
+    if [[ $num -eq 1 ]]; then
+        serial_time=$elapsed_time
+        parallel_efficiency=1
+        speedup_rate=1
+        echo "Parallel Efficiency: 1" >> "./$LOG_DIR/$current_time-$FILENAME-${num}.log"
+        echo "Speedup Rate: 1" >> "./$LOG_DIR/$current_time-$FILENAME-${num}.log"
+    else
+        # Calculate and log parallel efficiency if not the serial run
+        parallel_efficiency=$(python -c "print(f'{float($serial_time) / ($elapsed_time * $num):.2f}')")
+        speedup_rate=$(python -c "print(f'{float($serial_time) / $elapsed_time:.2f}')")
+        echo "Parallel Efficiency: $parallel_efficiency" >> "./$LOG_DIR/$current_time-$FILENAME-${num}.log"
+        echo "Speedup Rate: $speedup_rate" >> "./$LOG_DIR/$current_time-$FILENAME-${num}.log"
+    fi
+    # Append results to CSV
+    echo "$num,$elapsed_time,$parallel_efficiency,$speedup_rate,$performance_data,$recovery_data,$grade_data,$vector_data" >> "$CSV_FILE"
+done
+
+echo "All tests completed. Check the output logs in $LOG_DIR."
+python ../hpc_scripts/visual_openmp.py $current_time $LOG_DIR --save_path ../plots

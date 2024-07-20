@@ -1,0 +1,7 @@
+<map id="MedianFilter3D" name="MedianFilter3D">
+<area shape="rect" id="Node000001" title="Implements median filtering for volumetric data." alt="" coords="10,153,119,178"/>
+<area shape="rect" id="Node000002" href="$class_filter3_d.html" title="An abstract base class for 3D volume filters. Class derived from Filter." alt="" coords="31,79,98,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,120,67,152,62,152,62,120"/>
+<area shape="rect" id="Node000003" href="$class_filter.html" title=" " alt="" coords="5,5,124,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,46,67,79,62,79,62,46"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="HistogramEqualisation" name="HistogramEqualisation">
+<area shape="rect" id="Node000001" title="Implements histogram equalization for image contrast enhancement." alt="" coords="5,153,158,178"/>
+<area shape="rect" id="Node000002" href="$class_filter2_d.html" title="An abstract base class for 2D image filters. Class derived from Filter." alt="" coords="48,79,115,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,120,84,152,79,152,79,120"/>
+<area shape="rect" id="Node000003" href="$class_filter.html" title=" " alt="" coords="26,5,137,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,46,84,79,79,79,79,46"/>
+</map>

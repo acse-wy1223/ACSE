@@ -1,0 +1,46 @@
+<map id="include/UI3D.h" name="include/UI3D.h">
+<area shape="rect" id="Node000001" title="Defines the UI3D class for the 3D user interface of the application." alt="" coords="381,5,490,31"/>
+<area shape="rect" id="Node000002" href="$_helpers_8h.html" title="Declaration of utility functions for various simple operations." alt="" coords="97,226,174,252"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="381,27,321,34,256,45,199,61,177,70,163,81,144,111,135,146,132,181,134,211,129,211,127,181,129,145,139,109,159,77,174,66,197,56,255,40,320,29,381,21"/>
+<area shape="rect" id="Node000008" href="$_volume_8h.html" title="Declaration of the Volume class for managing 3D volume data." alt="" coords="461,226,538,252"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="444,30,465,78,485,150,497,211,492,212,479,151,460,80,439,33"/>
+<area shape="rect" id="Node000013" href="$_gaussian_filter3_d_8h.html" title="Defines the GaussianFilter3D class for applying a 3D Gaussian filter on volumetric data." alt="" coords="317,79,450,105"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="429,33,403,68,399,65,425,30"/>
+<area shape="rect" id="Node000016" href="$_median_filter3_d_8h.html" title="Defines the MedianFilter3D class for applying a median filter to volumetric data." alt="" coords="173,79,293,105"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="402,34,283,76,281,71,400,29"/>
+<area shape="rect" id="Node000017" href="$_projection_8h.html" title="Declaration of the Projection class for computing and applying projection techniques to 3D volume dat..." alt="" coords="525,153,615,178"/>
+<area shape="poly" id="edge23_Node000001_Node000017" title=" " alt="" coords="453,29,508,77,556,138,552,142,504,81,450,33"/>
+<area shape="rect" id="Node000018" href="$_slice_8h.html" title="Declaration of the Slice class for extracting and saving 2D slices from 3D volume data." alt="" coords="639,153,701,178"/>
+<area shape="poly" id="edge25_Node000001_Node000018" title=" " alt="" coords="457,29,536,77,640,142,637,146,533,81,454,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="314,374,386,399"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,253,61,266,28,283,16,292,10,302,9,313,15,324,33,338,62,350,138,367,224,377,299,381,299,387,224,382,137,372,60,355,31,343,11,327,4,314,5,300,12,289,25,278,59,261,96,248"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="231,300,312,326"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="160,250,236,290,234,295,157,255"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="24,300,92,326"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="124,255,84,291,80,287,121,251"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="116,300,155,326"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="138,252,138,284,133,284,133,252"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="471,374,528,399"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="146,251,175,287,196,307,219,323,263,339,327,354,456,376,455,382,326,360,262,345,217,328,193,311,171,291,141,254"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="462,253,417,271,396,285,378,302,362,329,355,359,350,358,357,328,373,298,393,280,415,266,460,248"/>
+<area shape="poly" id="edge12_Node000008_Node000004" title=" " alt="" coords="462,255,326,297,324,292,460,250"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="515,251,534,272,549,299,551,317,546,334,526,364,522,361,541,332,545,317,544,301,529,275,511,254"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="387,300,441,326"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="487,255,442,292,438,288,483,250"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="609,300,667,326"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="524,250,602,290,600,295,522,255"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="690,300,765,326"/>
+<area shape="poly" id="edge13_Node000008_Node000011" title=" " alt="" coords="539,250,676,293,674,298,537,255"/>
+<area shape="rect" id="Node000012" href="$_image_8h.html" title="The Image class is used for loading, manipulating, and saving images." alt="" coords="465,300,534,326"/>
+<area shape="poly" id="edge14_Node000008_Node000012" title=" " alt="" coords="502,252,502,284,497,284,497,252"/>
+<area shape="poly" id="edge15_Node000012_Node000003" title=" " alt="" coords="475,329,390,369,388,364,473,324"/>
+<area shape="poly" id="edge16_Node000012_Node000007" title=" " alt="" coords="502,326,502,358,497,358,497,326"/>
+<area shape="rect" id="Node000014" href="$_filter3_d_8h.html" title="The Filter3D class is an abstract base class for 3D volume filters." alt="" coords="344,153,423,178"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="386,105,386,137,381,137,381,105"/>
+<area shape="poly" id="edge20_Node000014_Node000008" title=" " alt="" coords="405,177,468,216,466,220,402,181"/>
+<area shape="rect" id="Node000015" href="$_filter_8h.html" title="The Filter class is an abstract base class for image/volume filters." alt="" coords="353,226,414,252"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="386,179,386,211,381,211,381,179"/>
+<area shape="poly" id="edge22_Node000016_Node000014" title=" " alt="" coords="259,103,345,143,343,148,257,108"/>
+<area shape="poly" id="edge24_Node000017_Node000008" title=" " alt="" coords="560,180,524,217,520,213,557,177"/>
+<area shape="poly" id="edge26_Node000018_Node000008" title=" " alt="" coords="642,181,543,222,541,218,640,176"/>
+</map>
